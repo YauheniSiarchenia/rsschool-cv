@@ -30,3 +30,13 @@ Sublime
 Code example:
 
 ![My code](./img/my_code.png)
+
+Education:
+
+IT-academy (_Course "Website Development Using Html, CSS and JS"_)
+
+RS-School (_stage_1 JS, in progress_)
+
+English language:
+
+Elementary (A2)
