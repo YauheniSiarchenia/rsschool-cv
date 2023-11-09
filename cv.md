@@ -1,42 +1,42 @@
-Yauheni Siarchenia
+#Yauheni Siarchenia
 
 ![My photo](./img/my_photo.jpg)
 
-Contact information:
+##Contact information:
 
-Phone: +375297775819.
+1. **Phone**: +375297775819.
 
-Telegram: https://t.me/Cat_forever_2020.
+2. **Telegram**: https://t.me/Cat_forever_2020.
 
-E-mail: zerosilver@mail.ru.
+3. **E-mail**: zerosilver@mail.ru.
 
-GitHub: YauheniSiarchenia.
+4. **GitHub**: YauheniSiarchenia.
 
-Discord: yauhenisiarchenia2024.
+5. **Discord**: yauhenisiarchenia2024.
 
-About me:
+##About me:
 
 I like web technologies and programming. I love to study and gain new knowledge. My goal is to become a javascript developer.
 
-My scills:
+##My scills:
 
-Git
-Html
-Css
-JS
-VS Code
-Sublime
+- Git
+- Html
+- Css
+- JS
+- VS Code
+- Sublime
 
-Code example:
+##Code example:
 
 ![My code](./img/my_code.png)
 
-Education:
+##Education:
 
-IT-academy (_Course "Website Development Using Html, CSS and JS"_)
+- IT-academy (_Course "Website Development Using Html, CSS and JS"_)
 
-RS-School (_stage_1 JS, in progress_)
+- RS-School (_stage_1 JS, in progress_)
 
-English language:
+##English language:
 
-Elementary (A2)
+- Elementary (A2)
