@@ -26,3 +26,7 @@ Css
 JS
 VS Code
 Sublime
+
+Code example:
+
+![My code](./img/my_code.png)
