@@ -13,3 +13,16 @@ E-mail: zerosilver@mail.ru.
 GitHub: YauheniSiarchenia.
 
 Discord: yauhenisiarchenia2024.
+
+About me:
+
+I like web technologies and programming. I love to study and gain new knowledge. My goal is to become a javascript developer.
+
+My scills:
+
+Git
+Html
+Css
+JS
+VS Code
+Sublime
